@@ -1,4 +1,4 @@
-package com.springcore.springshop.dto;
+package com.springshop.springcore.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

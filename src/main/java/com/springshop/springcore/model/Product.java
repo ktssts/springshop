@@ -1,6 +1,6 @@
-package com.springcore.springshop;
+package com.springshop.springcore.model;
 
-import com.springcore.springshop.dto.ProductRequestDto;
+import com.springshop.springcore.dto.ProductRequestDto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
