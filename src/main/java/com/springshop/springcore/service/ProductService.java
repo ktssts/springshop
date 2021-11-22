@@ -3,6 +3,7 @@ package com.springshop.springcore.service;
 import com.springshop.springcore.model.Product;
 import com.springshop.springcore.dto.ProductMypriceRequestDto;
 import com.springshop.springcore.dto.ProductRequestDto;
+import com.springshop.springcore.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

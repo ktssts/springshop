@@ -1,4 +1,4 @@
-package com.springshop.springcore.service;
+package com.springshop.springcore.repository;
 
 import com.springshop.springcore.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
