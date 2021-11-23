@@ -113,7 +113,7 @@ ${numberWithCommas(itemDto.lprice)}
 </div>
 </div>
 <div class="search-itemDto-right">
-<img src="images/icon-save.png" alt="" onclick='addProduct(${JSON.stringify(itemDto)})'>
+<img src="../static/images/icon-save.png" alt="" onclick='addProduct(${JSON.stringify(itemDto)})'>
 </div>
 </div>`
 }
